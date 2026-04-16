@@ -55,7 +55,11 @@ Indicates strict validation or inefficiencies
 
 👥 Customer Insights
 Equal male and female distribution
+
+
 👉 Balanced customer base
+
+
 🔄 Policy Activity
 58% Active vs 42% Inactive policies
 
