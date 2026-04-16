@@ -78,4 +78,4 @@ Professional dashboard layout
 
 This project demonstrates strong data analytics, visualization, and business understanding skills, making it a valuable addition to a Data Analyst portfolio.
 
-![image] (https://github.com/Nafish1255/Prism-Insurance-Dashboard/blob/069a200c205e251124f6fd8fe64a220abf91506c/images/dashboard_preview.png)
+![image alt](https://github.com/Nafish1255/Prism-Insurance-Dashboard/blob/069a200c205e251124f6fd8fe64a220abf91506c/images/dashboard_preview.png)
